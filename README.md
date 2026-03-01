@@ -43,3 +43,5 @@ In this repository, I have practiced:
 ---
 
 ## 📂 Repository Structure
+...
+⭐ Thank you for visiting my repository!
